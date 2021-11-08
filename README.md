@@ -31,6 +31,12 @@ docker run --name n9e -itd \
     tekintian/n9e-alpine:5.0.0-rc7
 ~~~
 
+## 使用
+http://localhost:8000/
+
+默认登录用户名: root  密码: root.2020
+
+
 ## 数据库脚本
 
 ~~~sql
